@@ -1,1 +1,1 @@
-export * from './use-serializers.decorator';
+export * from './use-serializer.decorator';
