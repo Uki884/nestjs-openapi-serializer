@@ -26,4 +26,8 @@ export class AppService {
       },
     };
   }
+
+  getHellos() {
+    return [this.getHello(), this.getHello()];
+  }
 }
